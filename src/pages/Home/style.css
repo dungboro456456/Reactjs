@@ -1,0 +1,11 @@
+.card.product-card {
+    transform: scale(1.1);
+    width: 700px;
+    height: 400px;
+  }
+  .card-img-top {
+    width: 100%;
+    height: 250px;
+    object-fit: contain;
+  }
+  

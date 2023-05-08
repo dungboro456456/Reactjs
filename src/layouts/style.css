@@ -1,0 +1,16 @@
+.navbar-nav {
+    display: flex;
+    justify-conten: center;
+  }
+  .next-btn {
+    background-color: #ff0000; /* thay đổi màu nổi hơn */
+    border-radius: 50%; /* làm tròn góc của button */
+    padding: 10px; /* thêm padding để tăng kích thước của button */
+    border: none; /* xóa viền của button */
+    height: 20px;
+  }
+  
+  .next-btn:hover {
+    opacity: 0.8; /* thêm hiệu ứng khi di chuột vào */
+  }
+  
